@@ -1,0 +1,367 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/variants/esp32"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "PubSubClient.h",
+    "Includepath": "/home/codespace/Arduino/libraries/PubSubClient/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "OneWire.h",
+    "Includepath": "/home/codespace/Arduino/libraries/OneWire"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "DallasTemperature.h",
+    "Includepath": "/home/codespace/Arduino/libraries/DallasTemperature"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "ESPAsyncWebServer.h",
+    "Includepath": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "FS.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/FS/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "AsyncTCP.h",
+    "Includepath": "/home/codespace/Arduino/libraries/AsyncTCP/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Network.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "DNSServer.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/DNSServer/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "AsyncUDP.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/AsyncUDP/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "ArduinoOTA.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/ArduinoOTA/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Update.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Update/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "MBusinoLib.h",
+    "Includepath": "/home/codespace/Arduino/libraries/MBusinoLib/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "/home/codespace/Arduino/libraries/ArduinoJson/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/EEPROM/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "/home/codespace/Arduino/libraries/Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Adafruit_BME280.h",
+    "Includepath": "/home/codespace/Arduino/libraries/Adafruit_BME280_Library"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "/home/codespace/Arduino/libraries/Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/workspaces/MBusino/src/MBusino/build/sketch/MBusino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/PubSubClient/src/PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/OneWire/OneWire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/DallasTemperature/DallasTemperature.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/AsyncEventSource.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/AsyncJson.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/AsyncMessagePack.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/AsyncWebHeader.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/AsyncWebSocket.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/BackPort_SHA1Builder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/ChunkPrint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/Middleware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/WebAuthentication.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/WebHandlers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/WebRequest.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/WebResponses.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/ESPAsyncWebServer/src/WebServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/FS/src/FS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/FS/src/vfs_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/AsyncTCP/src/AsyncTCP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/AP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/STA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkEvents.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkInterface.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkManager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Network/src/NetworkUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/DNSServer/src/DNSServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/AsyncUDP/src/AsyncUDP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/ArduinoOTA/src/ArduinoOTA.cpp",
+    "Include": "ESPmDNS.h",
+    "Includepath": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/ESPmDNS/src"
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/ArduinoOTA/src/ArduinoOTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Update/src/HttpsOTAUpdate.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/Update/src/Updater.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/MBusinoLib/src/MBusinoLib.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/EEPROM/src/EEPROM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_Unified_Sensor/Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_BME280_Library/Adafruit_BME280.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_BusIO/Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_BusIO/Adafruit_GenericDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_BusIO/Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/Arduino/libraries/Adafruit_BusIO/Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/SPI/src/SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/codespace/.arduino15/packages/esp32/hardware/esp32/3.1.1/libraries/ESPmDNS/src/ESPmDNS.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

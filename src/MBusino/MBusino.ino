@@ -92,7 +92,7 @@ DallasTemperature sensor7(&oneWire7);
 
 struct settings {
   char ssid[30];
-  char password[30];
+  char password[40];
   char mbusinoName[11];
   char broker[20];
   uint16_t mqttPort;
